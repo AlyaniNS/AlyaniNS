@@ -1,7 +1,7 @@
 ## 👋 Hi There!
 
 I'm Alyani Septalia, a **data enthusiast and developer**.  
-Currently working as a **Fullstack Developer** at a **logistics company** focused on optimizing digital systems in the **global maritime and logistics industry**. We provide integrated solutions to enhance operational efficiency, service speed, and customer satisfaction in cargo shipping.  
+Currently working as a **Fullstack Developer** at a **logistics company** focused on optimizing digital systems in the **global maritime and logistics industry**. 
 
 I'm a final-year Informatics student and web developer with hands-on experience in **Astro, Laravel, and WordPress**. Alongside web development, I’m also a **data enthusiast**, currently exploring **data visualization and analytics** to broaden my expertise and bridge technology with insights.  
 
